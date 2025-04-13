@@ -1,6 +1,6 @@
-# Création d’un site pour promouvoir une école de Pole Dance dans le cadre d'un stage en premiere année de BTS Informatique option Réseaux.
+# Création d’un site pour promouvoir une école de Pole Dance. 
 
-L’école Pole Dance Marseille avait besoin d’un nouveau site web pour promouvoir son activité et pouvoir gérer de manière autonome la mise à jour de ses contenus.
+Dans le cadre d'un stage en premiere année de BTS Informatique option Réseaux, j'ai travaillé avec une école de pole dance à Marseille qui avait besoin d’un nouveau site web pour promouvoir son activité et pouvoir gérer de manière autonome la mise à jour de ses contenus.
 
 Pour mener à bien ce projet, j’ai utilisé WordPress, un CMS (Content Management System), pour la gestion et la création du site. 
 J’ai également eu recours à Dreamweaver, un éditeur de code orienté web, ainsi qu’à Photoshop en tant qu’éditeur d'images.
