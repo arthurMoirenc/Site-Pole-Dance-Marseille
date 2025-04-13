@@ -7,6 +7,7 @@ J’ai également eu recours à Dreamweaver, un éditeur de code orienté web, a
 
 # EXEMPLE DE PAGE RÉALISÉ : 
 
+![Exemple De Page](./poleDanceAcceuil.png)
 
 À partir de la maquette réalisée sur Photoshop, j’ai sélectionné les templates les plus adaptés parmi ceux disponibles. J’ai ensuite découpé les éléments graphiques de la maquette, puis intégré le contenu textuel et visuel dans les différents blocs de la page. Enfin, j’ai apporté des ajustements en CSS afin de respecter fidèlement le design initial.
 
