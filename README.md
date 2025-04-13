@@ -17,4 +17,4 @@ J’ai également eu recours à Dreamweaver, un éditeur de code orienté web, a
 
 ![Exemple De Page](./poleDancePartenaires.png)
 
-## [Voir en ligne :](https://www.poledancemarseille.com/)
+## [Voir en ligne](https://www.poledancemarseille.com/)
