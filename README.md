@@ -1,4 +1,4 @@
-# Création d’un site pour promouvoir une école de Pole Dance.
+# Création d’un site pour promouvoir une école de Pole Dance dans le cadre d'un stage en premiere année de BTS Informatique option Réseaux.
 
 L’école Pole Dance Marseille avait besoin d’un nouveau site web pour promouvoir son activité et pouvoir gérer de manière autonome la mise à jour de ses contenus.
 
@@ -17,4 +17,4 @@ J’ai également eu recours à Dreamweaver, un éditeur de code orienté web, a
 
 ![Exemple De Page](./poleDancePartenaires.png)
 
-
+## [Voir en ligne :](https://www.poledancemarseille.com/)
