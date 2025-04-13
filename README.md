@@ -5,6 +5,10 @@ L’école Pole Dance Marseille avait besoin d’un nouveau site web pour promou
 Pour mener à bien ce projet, j’ai utilisé WordPress, un CMS (Content Management System), pour la gestion et la création du site. 
 J’ai également eu recours à Dreamweaver, un éditeur de code orienté web, ainsi qu’à Photoshop en tant qu’éditeur d'images.
 
+
+À partir de la maquette réalisée sur Photoshop, j’ai sélectionné les templates les plus adaptés parmi ceux disponibles. J’ai ensuite découpé les éléments graphiques de la maquette, puis intégré le contenu textuel et visuel dans les différents blocs de la page. Enfin, j’ai apporté des ajustements en CSS afin de respecter fidèlement le design initial.
+
+
 # EXEMPLE DE PAGE RÉALISÉ : 
 
 ![Exemple De Page](./poleDanceAcceuil.png)
@@ -12,7 +16,5 @@ J’ai également eu recours à Dreamweaver, un éditeur de code orienté web, a
 ![Exemple De Page](./poleDance2.png)
 
 ![Exemple De Page](./poleDancePartenaires.png)
-
-À partir de la maquette réalisée sur Photoshop, j’ai sélectionné les templates les plus adaptés parmi ceux disponibles. J’ai ensuite découpé les éléments graphiques de la maquette, puis intégré le contenu textuel et visuel dans les différents blocs de la page. Enfin, j’ai apporté des ajustements en CSS afin de respecter fidèlement le design initial.
 
 
