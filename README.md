@@ -17,7 +17,7 @@ J’ai également eu recours à **Dreamweaver**, un éditeur de code orienté we
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+---
 
 # EXEMPLE DE PAGE RÉALISÉ : 
 
