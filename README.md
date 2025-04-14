@@ -2,8 +2,8 @@
 
 Dans le cadre d'un stage en première année de BTS Informatique option Réseaux, j'ai travaillé avec une école de pole dance à Marseille qui avait besoin d’un nouveau site web pour promouvoir son activité et pouvoir gérer de manière autonome la mise à jour de ses contenus.
 
-Pour mener à bien ce projet, j’ai utilisé **[WordPress](https://wordpress.org/)**, un **CMS** (Content Management System), pour la gestion et la création du site.  
-J’ai également eu recours à **[Dreamweaver](https://www.adobe.com/products/dreamweaver.html)**, un éditeur de code orienté web, ainsi qu’à **[Photoshop](https://www.adobe.com/products/photoshop.html)** en tant qu’éditeur d'images.
+Pour mener à bien ce projet, j’ai utilisé **WordPress**, un **CMS** (Content Management System), pour la gestion et la création du site.  
+J’ai également eu recours à **Dreamweaver**, un éditeur de code orienté web, ainsi qu’à **Photoshop** en tant qu’éditeur d'images.
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61A6?style=for-the-badge&logo=adobe&logoColor=white)
