@@ -25,4 +25,4 @@ J’ai également eu recours à **Dreamweaver**, un éditeur de code orienté we
 
 ---
 
-## [![Voir en ligne](https://img.shields.io/badge/Consulter%20le%20site%20-%20Pole%20Dance%20Marseille-0000?style=for-the-badge&logo=internet-explorer&logoColor=white&color=FFFF00)](https://www.poledancemarseille.com/)
+## [![Voir en ligne](https://img.shields.io/badge/Consulter%20le%20site%20-%20Pole%20Dance%20Marseille-0000?style=for-the-badge&logo=internet-explorer&logoColor=white&color=FF69B4)](https://www.poledancemarseille.com/)
