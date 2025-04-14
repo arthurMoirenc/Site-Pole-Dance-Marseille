@@ -1,5 +1,8 @@
 <h1 align="center" style="color: white; text-shadow: 2px 2px 4px #FF69B4, -2px -2px 4px #FF69B4;">✨ POLE DANCE MARSEILLE</h1>
 
+![Pole Dance Marseille](lien_de_l_image_avec_contour_rose)
+
+
 ### Création d’un site pour promouvoir une école de Pole Dance
 
 Dans le cadre d'un stage en première année de BTS Informatique option Réseaux, j'ai travaillé avec une école de pole dance à Marseille qui avait besoin d’un nouveau site web pour promouvoir son activité et pouvoir gérer de manière autonome la mise à jour de ses contenus.
