@@ -1,7 +1,4 @@
-<h1 align="center" style="color: white; text-shadow: 2px 2px 4px #FF69B4, -2px -2px 4px #FF69B4;">✨ POLE DANCE MARSEILLE</h1>
-
-![Pole Dance Marseille](lien_de_l_image_avec_contour_rose)
-
+<h1 align="center">✨ POLE DANCE MARSEILLE</h1>
 
 ### Création d’un site pour promouvoir une école de Pole Dance
 
