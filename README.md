@@ -23,11 +23,6 @@ J’ai également eu recours à **Dreamweaver**, un éditeur de code orienté we
 
 ![Exemple De Page](./poleDancePartenaires.png)
 
+---
 
 ## [![Voir en ligne](https://img.shields.io/badge/Consulter%20le%20site%20-%20Pole%20Dance%20Marseille-008C9E?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.poledancemarseille.com/)
-
-## [🌐 Voir le site web de Pole Dance Marseille](https://www.poledancemarseille.com/)
-
-<p align="center">
-  <a href="https://www.poledancemarseille.com/" target="_blank" style="background-color: #008C9E; padding: 10px 20px; color: white; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 16px;">Consulter le site de Pole Dance Marseille</a>
-</p>
