@@ -1,4 +1,6 @@
-# Création d’un site pour promouvoir une école de Pole Dance
+<h1 align="center">✨ POLE DANCE MARSEILLE</h1>
+
+### Création d’un site pour promouvoir une école de Pole Dance
 
 Dans le cadre d'un stage en première année de BTS Informatique option Réseaux, j'ai travaillé avec une école de pole dance à Marseille qui avait besoin d’un nouveau site web pour promouvoir son activité et pouvoir gérer de manière autonome la mise à jour de ses contenus.
 
