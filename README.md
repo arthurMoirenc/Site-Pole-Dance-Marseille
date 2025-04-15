@@ -17,7 +17,7 @@ J’ai également eu recours à **Dreamweaver**, un éditeur de code orienté we
 
 ---
 
-# EXEMPLE DE PAGE RÉALISÉ : 
+# EXEMPLE DE PAGES RÉALISÉS : 
 
 ![Exemple De Page](./poleDanceAcceuil.png)
 
